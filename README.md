@@ -16,6 +16,7 @@
 - what is regex
 - avoid form submit
 - check valid email and password
+- created Redux Store with userSlice
 
 # features
 
